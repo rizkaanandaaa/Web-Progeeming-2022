@@ -1,0 +1,51 @@
+/* class selector */
+div {
+    display: flex;
+}
+.satu {
+    padding-left: 3%;
+    text-indent: 1.5%;
+    display: inline-block;
+    width: 600px;
+}
+#idsatu {
+    width: 300px;
+}
+#iddua {
+    width: 200px;
+}
+aside {
+    margin-left: auto;
+    text-align: right;
+    float: right;
+}
+.dua {
+    width: 80%; height: 70%;
+}
+.Foto {
+    width: 80px;
+}
+.div1 {
+    display: flex;
+    width: 100px;
+}
+.div2 {
+    border: 2px solid white;
+    width: 35%;
+    height: 190px;
+}
+.div3 {
+    display: inline-block;
+    float: none;
+    width: 50%;
+    right: 50%;
+}
+.div4 {
+    padding-left: 5%;
+    width: 30%;
+}
+.empat {
+    display: inline-block;
+    width: 25%;
+    height: 80%;
+}

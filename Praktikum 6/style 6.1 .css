@@ -1,0 +1,22 @@
+#container{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 1080px;
+height: 190px;
+justify-content: space-around;
+align-items: center;
+margin-left: 5px;
+margin-top: 5px;
+}
+
+.Box{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 85px;
+    align-items: center;
+}
+
+.box1{
+    width: 350px;
+}
